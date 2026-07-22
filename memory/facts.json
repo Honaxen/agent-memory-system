@@ -1,0 +1,20 @@
+{
+  "location": {
+    "value": "Berlin",
+    "updated_at": "2026-07-22T07:19:27.384653+00:00",
+    "source_session": "s1",
+    "history": []
+  },
+  "occupation": {
+    "value": "nurse",
+    "updated_at": "2026-07-22T07:19:27.385853+00:00",
+    "source_session": "s1",
+    "history": []
+  },
+  "move_date": {
+    "value": "last month",
+    "updated_at": "2026-07-22T07:19:27.386217+00:00",
+    "source_session": "s1",
+    "history": []
+  }
+}
