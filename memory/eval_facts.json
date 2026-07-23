@@ -1,0 +1,26 @@
+{
+  "occupation": {
+    "value": "backend engineer",
+    "updated_at": "2026-07-23T07:54:26.476301+00:00",
+    "source_session": "session_1",
+    "history": []
+  },
+  "programming_language": {
+    "value": "Go",
+    "updated_at": "2026-07-23T07:54:26.477586+00:00",
+    "source_session": "session_1",
+    "history": []
+  },
+  "pet": {
+    "value": "dog named Biscuit",
+    "updated_at": "2026-07-23T07:54:26.477950+00:00",
+    "source_session": "session_1",
+    "history": []
+  },
+  "goal": {
+    "value": "preparing for a half marathon in October",
+    "updated_at": "2026-07-23T07:54:26.478260+00:00",
+    "source_session": "session_1",
+    "history": []
+  }
+}

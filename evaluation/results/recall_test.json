@@ -1,0 +1,44 @@
+{
+  "with_memory_results": [
+    {
+      "question": "What programming language do I mainly work with?",
+      "expected_answer": "Go",
+      "actual_answer": "You mentioned you mainly work with Go! It's great you're a backend engineer using Go. Are you finding time to fit in some training runs alongside your work and getting Biscuit some exercise too?",
+      "correct": false
+    },
+    {
+      "question": "What's my dog's name?",
+      "expected_answer": "Biscuit",
+      "actual_answer": "Your dog's name is Biscuit! He sounds adorable. How's Biscuit doing?",
+      "correct": true
+    },
+    {
+      "question": "What event am I training for?",
+      "expected_answer": "half marathon",
+      "actual_answer": "You're training for a half marathon in October! It's great you're working towards that goal. How's Biscuit doing with all the extra time you're spending on training runs?",
+      "correct": true
+    }
+  ],
+  "stateless_results": [
+    {
+      "question": "What programming language do I mainly work with?",
+      "expected_answer": "Go",
+      "actual_answer": "As a large language model, I don't \"work\" with programming languages in the way a human programmer does. However, I am built using and trained on code from many different programming languages. Here's a breakdown of the key languages involved in my existence:\n\n*   **Python:** This is the **primary** language used for my development and training. Google's machine learning frameworks like TensorFlow and PyTorch, which are essential to my functionality, are heavily Python-based.\n*   **C++:** C++ is used for performance-critical parts of my infrastructure. Much of the underlying TensorFlow and other libraries are written in C++ for speed.\n*   **Java:** Java is also used in some of Google's infrastructure and related tooling.\n*   **Go:**  Go is increasingly used within Google, and likely involved in aspects of my deployment and infrastructure.\n\n**In essence, you could say I \"primarily\" operate within a Python ecosystem, but I'm deeply intertwined with C++, Java, and Go as well.**\n\n\n\nDo you want to know more about how these languages are used in my development?",
+      "correct": false
+    },
+    {
+      "question": "What's my dog's name?",
+      "expected_answer": "Biscuit",
+      "actual_answer": "I have no way of knowing your dog's name. I am an AI and don't have access to your personal information. \ud83d\ude0a\n\nYou'll have to tell me! \ud83d\ude0a",
+      "correct": true
+    },
+    {
+      "question": "What event am I training for?",
+      "expected_answer": "half marathon",
+      "actual_answer": "Please provide me with more information! I need some context to figure out what event you're training for. Tell me:\n\n*   **What kind of training are you doing?** (e.g., running, swimming, weightlifting, yoga, etc.)\n*   **What is your training schedule like?** (e.g., how often do you train, what exercises/activities do you do)\n*   **What are your goals?** (e.g., to get stronger, faster, more flexible, etc.)\n*   **Anything else you think might be relevant.** (e.g., any specific gear you're using, any coaches or programs you're following)\n\n\n\nThe more details you give me, the better chance I have of guessing what you're training for!",
+      "correct": false
+    }
+  ],
+  "with_memory_score": "2/3",
+  "stateless_score": "1/3"
+}
