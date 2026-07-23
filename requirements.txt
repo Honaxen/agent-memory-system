@@ -1,0 +1,8 @@
+# Root requirements for agent-memory-system.
+# Every script talks to Ollama directly via urllib (standard library) --
+# no LLM SDK dependency needed. No vector DB is used since memory
+# retrieval here is small enough (facts + a handful of episode summaries)
+# for simple key/recency-based lookup rather than embedding search.
+
+# --- Testing ---
+pytest
